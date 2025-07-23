@@ -1,0 +1,14 @@
+                        ###################################
+                        # FLIP2M and Third Party Licenses #
+                        ###################################
+
+ The FLIP2M repository includes original source code, as well as 3rd party software
+ and software derived from 3rd party source code.
+
+  1. The original source code is governed by the Apache License 2.0.
+     Original FLIP2M source files are tagged with the SPDX-License Identifier Apache-2.0
+     and report the following copyright notice.
+
+       - Copyright (c) 2011-2025 Columbia University, System Level Design Group
+
+ A copy of all relevant license files is available in the folder licenses.
