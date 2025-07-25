@@ -97,7 +97,7 @@ If you use this artifact or framework in your work, please cite:
 ```bibtex
 @inproceedings{tombesi2025flip2m,
   title     = {FLIP2M: Flexible Intra-layer Parallelism and Inter-layer Pipelining for Multi-Model AR/VR Workloads},
-  author    = {Gabriele Tombesi and Jenna Yang and Joseph Zuckerman and Davide Giri and William Baisi and Luca P. Carloni},
+  author    = {Gabriele Tombesi, Je Yang, Joseph Zuckerman, Davide Giri, William Baisi and Luca P. Carloni},
   year      = {2025}
 }
 ```
